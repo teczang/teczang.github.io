@@ -1,15 +1,14 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML >  <!-- PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"> -->
 <html>
 
 <head>
 	<title>TECZANG: For the better life environments</title>
               
-             
+<meta name="google-site-verification" content="nrJdZF5D_RQ0C9JRBPbUGDCYIxjephB7u87KKa2wMAE" />
 	<meta charset="utf-8">
 	<meta name="keywords" content="Air quality monitoring, Air quality sensor, Air smart home">
 	<meta name="description" content="Developments for better life environments">
-<meta name="google-site-verification" content="nrJdZF5D_RQ0C9JRBPbUGDCYIxjephB7u87KKa2wMAE" />
-	<link rel="shortcut icon" href="favicon.ico">
+	<link rel="shortcut icon" href="tz.ico">
 	<style type="css">
 		<!--
 		body,
